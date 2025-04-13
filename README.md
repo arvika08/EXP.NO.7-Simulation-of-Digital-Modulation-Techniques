@@ -332,9 +332,7 @@ plt.show()
 # RESULT / CONCLUSION:
 ASK, FSK, and PSK modulation techniques were successfully simulated using Python.
 
-The modulated signals clearly show the difference in amplitude, frequency, and phase based on binary data.
 
-This simulation helps understand how digital data can be modulated for communication purposes.
 
 
 
